@@ -1,4 +1,4 @@
-# Digital Image and Signal processing
+# Digital Signal and Image processing
 
 ## Signal
 
